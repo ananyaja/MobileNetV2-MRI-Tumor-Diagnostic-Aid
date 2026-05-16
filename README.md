@@ -31,3 +31,15 @@ The dataset used for this project is the **Brain Tumor Classification (MRI)** da
 1. Clone this repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+## 🔬 Methodology: Transfer Learning & Fine-Tuning
+This project follows a two-stage training workflow to maximize accuracy while preventing overfitting:
+* **Stage 1 (Frozen):** Trained the classification head while keeping MobileNetV2 weights frozen to establish a baseline.
+* **Stage 2 (Fine-Tuning):** Unfroze the base model and trained with an ultra-low learning rate ($\eta = 10^{-5}$) to adapt the model to specific MRI textures.
+
+## 📈 Final Results
+* [cite_start]**Validation Accuracy:** 61% (across 4 complex classes)[cite: 18].
+* [cite_start]**Top Performer:** Pituitary Tumor classification achieved **90% Precision**[cite: 19].
+* [cite_start]**Reliability:** Successfully identified "No Tumor" (healthy scans) with a high F1-score[cite: 19].
+
+## 🌟 Project Intent
+This project is part of a broader goal to leverage **Artificial Intelligence for Social Good**. By developing efficient diagnostic aids like this, we can help bring high-quality medical screening tools to regions with limited access to specialized radiologists.
