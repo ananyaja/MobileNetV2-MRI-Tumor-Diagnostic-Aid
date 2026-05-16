@@ -43,3 +43,7 @@ This project follows a two-stage training workflow to maximize accuracy while pr
 
 ## 🌟 Project Intent
 This project is part of a broader goal to leverage **Artificial Intelligence for Social Good**. By developing efficient diagnostic aids like this, we can help bring high-quality medical screening tools to regions with limited access to specialized radiologists.
+
+## 📥 Model Weights
+Due to GitHub file size limits, the final trained model is hosted on Kaggle:
+* **[Download Fine-tuned MobileNetV2 (.keras)](https://www.kaggle.com/code/ananyajadebadipta/notebook28d4fc8196/output?select=brain_tumor_mobilenet_v2_finetuned.keras)**
