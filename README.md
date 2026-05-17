@@ -42,14 +42,7 @@ This project follows a two-stage training workflow to maximize accuracy while pr
 * [cite_start]**Reliability:** Successfully identified "No Tumor" (healthy scans) with a high F1-score[cite: 19].
 
 
-![confusion_matrix](confusion_matrix.png)
 
-Figure 1: Confusion Matrix showing high precision in Pituitary Tumor classification.
-
-
-![Training Progress](fine_tune_accuracy.png)
-
-Figure 2: Training and Validation accuracy during the Fine-Tuning stage.
 
 <div align="center">
   <table>
