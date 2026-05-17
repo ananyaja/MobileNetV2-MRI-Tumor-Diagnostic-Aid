@@ -40,8 +40,14 @@ This project follows a two-stage training workflow to maximize accuracy while pr
 * [cite_start]**Validation Accuracy:** 61% (across 4 complex classes)[cite: 18].
 * [cite_start]**Top Performer:** Pituitary Tumor classification achieved **90% Precision**[cite: 19].
 * [cite_start]**Reliability:** Successfully identified "No Tumor" (healthy scans) with a high F1-score[cite: 19].
-* ![confusion_matrix](confusion_matrix.png)
-* ![Training Progress](fine_tune_accuracy.png)
+
+
+![confusion_matrix](confusion_matrix.png)
+“Figure 1: Confusion Matrix showing high precision in Pituitary Tumor classification.”
+
+
+![Training Progress](fine_tune_accuracy.png)
+“Figure 2: Training and Validation accuracy during the Fine-Tuning stage.”
   
 ## 🌟 Project Intent
 This project is part of a broader goal to leverage **Artificial Intelligence for Social Good**. By developing efficient diagnostic aids like this, we can help bring high-quality medical screening tools to regions with limited access to specialized radiologists.
