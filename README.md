@@ -50,6 +50,21 @@ Figure 1: Confusion Matrix showing high precision in Pituitary Tumor classificat
 ![Training Progress](fine_tune_accuracy.png)
 
 Figure 2: Training and Validation accuracy during the Fine-Tuning stage.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <p><b>Confusion Matrix</b></p>
+        <img src="confusion_matrix.png" alt="Confusion Matrix" width="400">
+      </td>
+      <td align="center">
+        <p><b>Fine-Tuning Accuracy</b></p>
+        <img src="fine_tune_accuracy.png" alt="Fine-Tuning Accuracy" width="400">
+      </td>
+    </tr>
+  </table>
+</div>
   
 ## 🌟 Project Intent
 This project is part of a broader goal to leverage **Artificial Intelligence for Social Good**. By developing efficient diagnostic aids like this, we can help bring high-quality medical screening tools to regions with limited access to specialized radiologists.
