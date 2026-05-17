@@ -44,12 +44,12 @@ This project follows a two-stage training workflow to maximize accuracy while pr
 
 ![confusion_matrix](confusion_matrix.png)
 
-“Figure 1: Confusion Matrix showing high precision in Pituitary Tumor classification.”
+Figure 1: Confusion Matrix showing high precision in Pituitary Tumor classification.
 
 
 ![Training Progress](fine_tune_accuracy.png)
 
-“Figure 2: Training and Validation accuracy during the Fine-Tuning stage.”
+Figure 2: Training and Validation accuracy during the Fine-Tuning stage.
   
 ## 🌟 Project Intent
 This project is part of a broader goal to leverage **Artificial Intelligence for Social Good**. By developing efficient diagnostic aids like this, we can help bring high-quality medical screening tools to regions with limited access to specialized radiologists.
