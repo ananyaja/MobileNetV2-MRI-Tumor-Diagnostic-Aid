@@ -65,3 +65,6 @@ This project is part of a broader goal to leverage **Artificial Intelligence for
 ## 📥 Model Weights
 Due to GitHub file size limits, the final trained model is hosted on Kaggle:
 * **[Download Fine-tuned MobileNetV2 (.keras)](https://www.kaggle.com/code/ananyajadebadipta/notebook28d4fc8196/output?select=brain_tumor_mobilenet_v2_finetuned.keras)**
+
+## How to Run the Project
+git clone https://github.com/ananyaja/MobileNetV2-MRI-Tumor-Diagnostic-Aid.git
