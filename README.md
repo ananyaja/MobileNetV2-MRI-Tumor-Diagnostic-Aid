@@ -43,10 +43,12 @@ This project follows a two-stage training workflow to maximize accuracy while pr
 
 
 ![confusion_matrix](confusion_matrix.png)
+
 “Figure 1: Confusion Matrix showing high precision in Pituitary Tumor classification.”
 
 
 ![Training Progress](fine_tune_accuracy.png)
+
 “Figure 2: Training and Validation accuracy during the Fine-Tuning stage.”
   
 ## 🌟 Project Intent
