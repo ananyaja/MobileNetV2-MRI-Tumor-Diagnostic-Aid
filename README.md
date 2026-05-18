@@ -30,7 +30,7 @@ The dataset used for this project is the **Brain Tumor Classification (MRI)** da
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   git clone https://github.com/ananyaja/MobileNetV2-MRI-Tumor-Diagnostic-Aid.git
 ## 🔬 Methodology: Transfer Learning & Fine-Tuning
 This project follows a two-stage training workflow to maximize accuracy while preventing overfitting:
 * **Stage 1 (Frozen):** Trained the classification head while keeping MobileNetV2 weights frozen to establish a baseline.
@@ -66,5 +66,5 @@ This project is part of a broader goal to leverage **Artificial Intelligence for
 Due to GitHub file size limits, the final trained model is hosted on Kaggle:
 * **[Download Fine-tuned MobileNetV2 (.keras)](https://www.kaggle.com/code/ananyajadebadipta/notebook28d4fc8196/output?select=brain_tumor_mobilenet_v2_finetuned.keras)**
 
-## How to Run the Project
-git clone https://github.com/ananyaja/MobileNetV2-MRI-Tumor-Diagnostic-Aid.git
+
+
