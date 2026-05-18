@@ -37,9 +37,9 @@ This project follows a two-stage training workflow to maximize accuracy while pr
 * **Stage 2 (Fine-Tuning):** Unfroze the base model and trained with an ultra-low learning rate ($\eta = 10^{-5}$) to adapt the model to specific MRI textures.
 
 ## 📈 Final Results
-* [cite_start]**Validation Accuracy:** 61% (across 4 complex classes)[cite: 18].
-* [cite_start]**Top Performer:** Pituitary Tumor classification achieved **90% Precision**[cite: 19].
-* [cite_start]**Reliability:** Successfully identified "No Tumor" (healthy scans) with a high F1-score[cite: 19].
+* **Validation Accuracy:** 61% (across 4 complex classes)[cite: 18].
+* **Top Performer:** Pituitary Tumor classification achieved **90% Precision**[cite: 19].
+* **Reliability:** Successfully identified "No Tumor" (healthy scans) with a high F1-score[cite: 19].
 
 
 
